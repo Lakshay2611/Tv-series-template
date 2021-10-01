@@ -1,0 +1,30 @@
+body{
+    background-color: grey;
+}
+.heading{
+    color: black;
+    font-size: 6rem;
+    font-family: 'Ephesis', cursive;
+    margin-left: 30rem;
+}
+
+#image1{
+    background-image: url(https://i.guim.co.uk/img/media/64c687b75da57f3e82d9fcfd019a4103ce81db15/0_143_4284_2570/master/4284.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=875a687b2bdcabefe197ed97dd54a624);
+width: 300px;
+height: 300px;
+float: right;
+background-repeat: no-repeat;
+background-size: contain;
+}
+#image1:hover{
+    cursor: pointer;
+    transform: scale(1.5);
+}
+#image2{
+    background-image: url(https://occ-0-1068-1722.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXqxVp7XCqQOEJxjNAEqi9PPTGvUet6RFfjNJg0RgyD7FQDt2xk-G6FK2gFJxZuamhye9EcZ5emCss2aZOsvsGZ5bojmIwafK--gJCVzc2ps1nmQ.jpg?r=e86    );
+width: 300px;
+height: auto;
+float: :left;
+background-repeat: no-repeat;
+background-size: contain;
+}
